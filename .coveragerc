@@ -1,0 +1,6 @@
+[run]
+# Ignora los archivos de pruebas
+omit = tests/*
+
+[report]
+show_missing = True
