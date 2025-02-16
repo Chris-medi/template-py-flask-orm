@@ -21,12 +21,12 @@ To set up and run the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/proyecto-gestion-tareas-backend.git
+   git clone https://github.com/Chris-medi/template-py-flask-orm.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd proyecto-gestion-tareas-backend
+   cd template-py-flask-orm
    ```
 
 3. Setup a virtual environment with and sync
