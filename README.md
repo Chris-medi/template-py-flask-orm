@@ -1,4 +1,3 @@
-
 # Project Title: Template base flask orm (Backend)
 
 ## Table of Contents
@@ -135,7 +134,7 @@ uvicorn asgi:asgi_app --workers 4 --host 0.0.0.0 --port 8000
 The API documentation can be found in the `docs` directory. You can generate the documentation using tools like Swagger or ReDoc.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-```
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the `LICENSE` file for more information.
 
-This updated README template includes information about `uvicorn` and its dependencies, making it more comprehensive for projects using this ASGI server.
+
+
